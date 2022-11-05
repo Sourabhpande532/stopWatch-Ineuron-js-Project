@@ -13,7 +13,7 @@
 
 ![HTML & CSS-Assighnment-project](https://img.shields.io/badge/Responsive-Ineuron--Assignment-blue)
 
-## [GO LIVE](https://naming-conversion.netlify.app/)
+## [GO LIVE](https://stopwatch-js-live-project.netlify.app/)
 
 ## ![website](./Images/Screenshot%202022-11-05%20210252.png)
 
